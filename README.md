@@ -2,7 +2,9 @@
 生成mysql数据字典的Excel文件，包含目录及表结构超链接，可同时导出多个库。
 
 1.使用前先按要求配置MySQL连接信息；
+
 2.确保已为每个表配置注释，否则无法建Sheet会报错。
+
 3.目录样式
 ![image](https://user-images.githubusercontent.com/22850798/222642472-46b8d8f0-bc24-400b-b9d6-54589e1830b9.png)
 
